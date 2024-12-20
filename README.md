@@ -8,4 +8,4 @@ Web tasarımı ve geliştirme ile ilgileniyorum.
 HTML, CSS, JavaScript, Python ve PHP.
 
 📂 Bu Hesapta:
-Dönem sonu projelerimi ve çalışmalarımı burada paylaşmaktan mutluluk duyuyorum!
+Ders içi etkinliklerimizi ve ileride tamamlamış olacağım projelerimi paylaşmaktan mutluluk duyuyorum.
